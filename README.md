@@ -2,4 +2,3 @@
 
 #File được tạo ra ở thư mục mặc định của dự án
 
-#Đồng thời cần đổi đường dẫn ở phần ghi file mới nếu bạn muốn ghi file ở thư mục cụ thể trên máy cá nhân
