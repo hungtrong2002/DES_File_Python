@@ -1,4 +1,3 @@
-# DES_File_Python
-# ĐỂ CHẠY CHƯƠNG TRÌNH BẠN CẦN TẢI PYCHARM/HOẶC BẤT KÌ IDE NÀO HỖ TRỢ CHẠY PYTHON VÀ CÀI ĐẶT THƯ VIỆN tkinter
-# FILE ĐƯỢC TẠO RA  Ở THƯ MỤC MẶC ĐỊNH CỦA DỰ ÁN
-# ĐỒNG THỜI CẦN ĐỔI ĐƯỜNG DẪN Ở PHẦN GHI FILE MỚI NẾU BẠN MUỐN GHI FILE Ở THƯ MỤC CỤ THỂ TRÊN MÁY CÁ NHÂN
+1.để chạy chương trình bạn cần tải pycharm/hoặc bất kì ide nào hỗ trợ chạy python và cài đặt thư viện tkinter
+2.file được tạo ra ở thư mục mặc định của dự án
+3.đồng thời cần đổi đường dẫn ở phần ghi file mới nếu bạn muốn ghi file ở thư mục cụ thể trên máy cá nhân
